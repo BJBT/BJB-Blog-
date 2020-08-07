@@ -13,3 +13,7 @@ FLASK_APP=microblog.py
 
 //Installing Flask-WTF to handle web-forms
     $ pip install flask-wtf
+
+//When modifying the database it is necessary to migrate and update 
+    $ flask db migrate -m 'blah blah'
+    $ flask db upgrade
