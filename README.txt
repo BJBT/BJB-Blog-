@@ -17,3 +17,4 @@ FLASK_APP=microblog.py
 //When modifying the database it is necessary to migrate and update 
     $ flask db migrate -m 'blah blah'
     $ flask db upgrade
+
