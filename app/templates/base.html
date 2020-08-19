@@ -1,4 +1,5 @@
 {% extends 'bootstrap/base.html' %}
+<link rel="stylesheet" href="{{ url_for('static', filename='/css/styles.css') }}">
 
 {% block title %}
     {% if title %}{{ title }} - Microblog{% else %}Welcome to Microblog{% endif %}
