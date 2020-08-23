@@ -68,3 +68,5 @@ werkzeug.routing.BuildError: Could not build url for endpoint 'main.index'. Did 
 2020-08-19 08:49:55,981 INFO: Microblog startup [in /Users/blayneb/Desktop/bjb_blog/app/__init__.py:48]
 2020-08-19 08:50:13,712 INFO: Microblog startup [in /Users/blayneb/Desktop/bjb_blog/app/__init__.py:48]
 2020-08-19 08:51:13,314 INFO: Microblog startup [in /Users/blayneb/Desktop/bjb_blog/app/__init__.py:48]
+2020-08-23 10:21:21,441 INFO: Microblog startup [in /Users/blayneb/Desktop/bjb_blog/app/__init__.py:48]
+2020-08-23 10:23:18,682 INFO: Microblog startup [in /Users/blayneb/Desktop/bjb_blog/app/__init__.py:48]
